@@ -1,6 +1,6 @@
 # Análisis de la Eficiencia y Rendimiento del Contratista
 
-<img width="603" alt="image" src="https://github.com/user-attachments/assets/9e93f7c3-2093-4164-88a1-9717edb58461" />
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/9e93f7c3-2093-4164-88a1-9717edb58461" />
 
 # Background del Proyecto
 
